@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_eed54bc39277b8803f0d383e1ad9a33e7b3539da.jar" />
+    </item>
+    <item
+        jar="/home/xavier/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_523cf628eb2f6250fb9bd230f86a05eabf694e3f.jar" />
+    </item>
+    <item
+        jar="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_b7e027b598d0ff2427a07148d2d78dcf819343a1.jar" />
+    </item>
+    <item
+        jar="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/com.android.support-design-23.4.0_6ddda7a5c191a8b310cde848f9f027c7839d4cf5.jar" />
+    </item>
+    <item
+        jar="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_674f98ed1fbfbc1984e680736c582ace176ec305.jar" />
+    </item>
+    <item
+        jar="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_4e12529dc959228b94996d5a8f77dc7257881dba.jar" />
+    </item>
+    <item
+        jar="/home/xavier/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/okhttp-3.0.1_0faf7fbaa09c81ba811289dcd8d5a1aa31cf3bc1.jar" />
+    </item>
+    <item
+        jar="/home/xavier/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/okio-1.6.0_19d1408d1aff0ce8c3d2cc4d52fec9929ff7d932.jar" />
+    </item>
+    <item
+        jar="/home/xavier/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.7.0/c1b1d30e2d2231b2eae1438a44943a409b976dac/engine.io-client-0.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c1b1d30e2d2231b2eae1438a44943a409b976dac">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/engine.io-client-0.7.0_4a7417c4ec9a7bbfbf0217716c6355ec98452ff6.jar" />
+    </item>
+    <item
+        jar="/home/xavier/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.0.1/bd9b51a0188fc8f14bf840a0d326755545206116/okhttp-ws-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bd9b51a0188fc8f14bf840a0d326755545206116">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/okhttp-ws-3.0.1_9e45f9db9a126f94f8af3cfd831cbc3fb275fe27.jar" />
+    </item>
+    <item
+        jar="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_435b1a3449490b02750cd09aa9ea6dc9f7cb7e5e.jar" />
+    </item>
+    <item
+        jar="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_6d9d5aa138570695ad2eafcea83f07ee5af67d4b.jar" />
+    </item>
+    <item
+        jar="/home/xavier/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.7.0/ce278c97bc9f74c7945d647f6d441d6013163362/socket.io-client-0.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ce278c97bc9f74c7945d647f6d441d6013163362">
+        <dex dex="/home/xavier/Programacion/Android/Chat/chat normal/Chat/app/build/intermediates/pre-dexed/release/socket.io-client-0.7.0_8ec9549f2305864022e55c12a206e15ff7e36faa.jar" />
+    </item>
+
+</items>
